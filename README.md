@@ -21,3 +21,15 @@ A simple script to transform [PHIDRA](https://github.com/zschreib/phidra) pfam_v
 ```
 python phidra_domain_to_tree_map.py <input.tsv> <output.tsv>
 ```
+
+![Mapping tree example](https://raw.githubusercontent.com/zschreib/domain_to_tree_mapper/main/test_output/ENA_polA_example.png)
+
+## Authors
+
+Contributors names and contact info.
+
+zschreib@udel.edu
+
+## Acknowledgments
+
+Tree visuals provided by [Iroki](https://www.iroki.net/)
